@@ -1,0 +1,104 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Naruto",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "year": 2002,
+      "rating": 8.3,
+      "description": "Naruto Uzumaki, a young ninja with a sealed demon fox spirit within him, dreams of becoming the Hokage, the leader of his village.",
+      "episodes": 220,
+      "image": "https://example.com/naruto.jpg"
+    },
+    {
+      "id": 2,
+      "title": "One Piece",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "year": 1999,
+      "rating": 8.5,
+      "description": "Monkey D. Luffy and his pirate crew search for the ultimate treasure known as 'One Piece' in a world of pirates and perilous seas.",
+      "episodes": "Ongoing",
+      "image": "https://example.com/one_piece.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Attack on Titan",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "year": 2013,
+      "rating": 9.0,
+      "description": "In a world where humanity is on the brink of extinction due to giant humanoid creatures, Eren Yeager joins the fight for survival.",
+      "episodes": 75,
+      "image": "https://example.com/attack_on_titan.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Death Note",
+      "genre": ["Mystery", "Psychological", "Supernatural"],
+      "year": 2006,
+      "rating": 9.0,
+      "description": "Light Yagami, a high school student, discovers a mysterious notebook that allows him to kill anyone whose name he writes in it.",
+      "episodes": 37,
+      "image": "https://example.com/death_note.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "genre": ["Action", "Adventure", "Drama"],
+      "year": 2009,
+      "rating": 9.2,
+      "description": "Two brothers, Edward and Alphonse Elric, use alchemy in their quest to find the Philosopher's Stone to restore their bodies.",
+      "episodes": 64,
+      "image": "https://example.com/fullmetal_alchemist.jpg"
+    },
+    {
+      "id": 6,
+      "title": "My Hero Academia",
+      "genre": ["Action", "Superpower", "School"],
+      "year": 2016,
+      "rating": 8.4,
+      "description": "In a world where people have superpowers called 'Quirks,' Izuku Midoriya strives to become a hero.",
+      "episodes": "Ongoing",
+      "image": "https://example.com/my_hero_academia.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sword Art Online",
+      "genre": ["Action", "Adventure", "Romance"],
+      "year": 2012,
+      "rating": 7.6,
+      "description": "Players are trapped in a virtual reality MMORPG, and Kirito must find a way to escape.",
+      "episodes": 97,
+      "image": "https://example.com/sword_art_online.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Dragon Ball Z",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "year": 1989,
+      "rating": 8.1,
+      "description": "Goku and his friends protect Earth from powerful foes and search for the Dragon Balls to make a wish.",
+      "episodes": 291,
+      "image": "https://example.com/dragon_ball_z.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Hunter x Hunter",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "year": 2011,
+      "rating": 9.1,
+      "description": "Gon Freecss aims to become a Hunter and find his missing father while facing dangerous challenges.",
+      "episodes": 148,
+      "image": "https://example.com/hunter_x_hunter.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Cowboy Bebop",
+      "genre": ["Action", "Sci-Fi", "Space Western"],
+      "year": 1998,
+      "rating": 8.9,
+      "description": "Bounty hunters Spike Spiegel and Jet Black travel through space in pursuit of criminals.",
+      "episodes": 26,
+      "image": "https://example.com/cowboy_bebop.jpg"
+    }
+  ]
+}
