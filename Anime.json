@@ -164,6 +164,116 @@
       "rating": 7.7,
       "studio": "Pierrot",
       "image_url": "https://example.com/bleach.jpg"
+    },
+        {
+      "id": 16,
+      "title": "One Punch Man",
+      "description": "Saitama, a hero who can defeat any opponent with a single punch, seeks a worthy challenge.",
+      "genre": ["Action", "Comedy", "Superpower"],
+      "release_date": "2015-10-05",
+      "episodes": 24,
+      "rating": 8.7,
+      "studio": "Madhouse",
+      "image_url": "https://example.com/one-punch-man.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Steins;Gate",
+      "description": "A group of friends accidentally invents a time machine and gets involved in a complex web of time-travel conspiracies.",
+      "genre": ["Sci-Fi", "Thriller", "Mystery"],
+      "release_date": "2011-04-06",
+      "episodes": 24,
+      "rating": 9.1,
+      "studio": "White Fox",
+      "image_url": "https://example.com/steins-gate.jpg"
+    },
+    {
+      "id": 18,
+      "title": "My Neighbor Totoro",
+      "description": "Two sisters move to the countryside and discover magical creatures in the nearby forest, including Totoro.",
+      "genre": ["Fantasy", "Adventure", "Slice of Life"],
+      "release_date": "1988-04-16",
+      "episodes": 1,
+      "rating": 8.2,
+      "studio": "Studio Ghibli",
+      "image_url": "https://example.com/totoro.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Death Parade",
+      "description": "In a mysterious bar, deceased souls are judged through intense psychological games to determine their afterlife fate.",
+      "genre": ["Psychological", "Drama", "Supernatural"],
+      "release_date": "2015-01-09",
+      "episodes": 12,
+      "rating": 8.3,
+      "studio": "Madhouse",
+      "image_url": "https://example.com/death-parade.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Mob Psycho 100",
+      "description": "A middle schooler with powerful psychic abilities must balance his supernatural life with everyday challenges.",
+      "genre": ["Action", "Comedy", "Supernatural"],
+      "release_date": "2016-07-11",
+      "episodes": 25,
+      "rating": 8.5,
+      "studio": "Bones",
+      "image_url": "https://example.com/mob-psycho-100.jpg"
+    },
+        {
+      "id": 21,
+      "title": "Fullmetal Alchemist",
+      "description": "Two brothers use alchemy to find the Philosopher's Stone to restore their bodies after a failed experiment.",
+      "genre": ["Adventure", "Fantasy", "Drama"],
+      "release_date": "2003-10-04",
+      "episodes": 51,
+      "rating": 8.7,
+      "studio": "Bones",
+      "image_url": "https://example.com/fullmetal-alchemist-original.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Attack on Titan: Junior High",
+      "description": "A comedic take on the Attack on Titan universe, set in a junior high school with quirky versions of the main characters.",
+      "genre": ["Comedy", "Parody", "School"],
+      "release_date": "2015-10-04",
+      "episodes": 12,
+      "rating": 7.3,
+      "studio": "Production I.G",
+      "image_url": "https://example.com/attack-on-titan-junior-high.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Black Clover",
+      "description": "A young boy born without magic power aims to become the Wizard King by working hard and never giving up.",
+      "genre": ["Action", "Magic", "Fantasy"],
+      "release_date": "2017-10-03",
+      "episodes": 170,
+      "rating": 7.5,
+      "studio": "Pierrot",
+      "image_url": "https://example.com/black-clover.jpg"
+    },
+    {
+      "id": 24,
+      "title": "One Piece: Strong World",
+      "description": "The Straw Hat Pirates encounter an old enemy in a floating island full of powerful creatures.",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "release_date": "2009-12-12",
+      "episodes": 1,
+      "rating": 8.0,
+      "studio": "Toei Animation",
+      "image_url": "https://example.com/one-piece-strong-world.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Spirited Away",
+      "description": "A young girl gets trapped in a mysterious and magical world and must find a way to save her parents.",
+      "genre": ["Fantasy", "Adventure", "Drama"],
+      "release_date": "2001-07-20",
+      "episodes": 1,
+      "rating": 8.6,
+      "studio": "Studio Ghibli",
+      "image_url": "https://example.com/spirited-away.jpg"
     }
   ]
 }
