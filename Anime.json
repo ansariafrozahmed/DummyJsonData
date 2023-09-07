@@ -549,6 +549,116 @@
       "rating": 8.7,
       "studio": "Studio Ghibli",
       "image_url": "https://example.com/spirited-away-return-to-spirit-world.jpg"
+    },
+    {
+      "id": 51,
+      "title": "One Piece: Stampede",
+      "description": "The Straw Hat Pirates participate in the Pirate Expo, where pirates from around the world gather.",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "release_date": "2019-08-09",
+      "episodes": 1,
+      "rating": 8.2,
+      "studio": "Toei Animation",
+      "image_url": "https://example.com/one-piece-stampede.jpg"
+    },
+    {
+      "id": 52,
+      "title": "Naruto: Shippuden",
+      "description": "Naruto Uzumaki continues his ninja journey and faces new challenges to save his friends and the world.",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "release_date": "2007-02-15",
+      "episodes": 500,
+      "rating": 8.6,
+      "studio": "Pierrot",
+      "image_url": "https://example.com/naruto-shippuden.jpg"
+    },
+    {
+      "id": 53,
+      "title": "Attack on Titan: The Final Season Part 2",
+      "description": "The epic battle against the Titans reaches its conclusion as humanity fights for survival.",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "release_date": "2023-01-09",
+      "episodes": 12,
+      "rating": 9.2,
+      "studio": "MAPPA",
+      "image_url": "https://example.com/attack-on-titan-final-season-part-2.jpg"
+    },
+    {
+      "id": 54,
+      "title": "Hunter x Hunter: Chimera Ant Arc",
+      "description": "Gon and Killua face the deadly Chimera Ants in a battle for survival and humanity's future.",
+      "genre": ["Action", "Adventure", "Superpower"],
+      "release_date": "2014-04-06",
+      "episodes": 61,
+      "rating": 9.0,
+      "studio": "Madhouse",
+      "image_url": "https://example.com/hunter-x-hunter-chimera-ant-arc.jpg"
+    },
+    {
+      "id": 55,
+      "title": "Neon Genesis Evangelion: Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "description": "The final installment of the Rebuild of Evangelion series concludes the epic story of Eva.",
+      "genre": ["Mecha", "Psychological", "Science Fiction"],
+      "release_date": "2021-03-08",
+      "episodes": 1,
+      "rating": 9.1,
+      "studio": "Khara",
+      "image_url": "https://example.com/evangelion-thrice-upon-a-time.jpg"
+    },
+    {
+      "id": 56,
+      "title": "Fairy Tail: Tartaros Arc",
+      "description": "The Fairy Tail guild faces the dark Tartaros guild in a battle to save the world from destruction.",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "release_date": "2014-07-05",
+      "episodes": 16,
+      "rating": 8.2,
+      "studio": "A-1 Pictures",
+      "image_url": "https://example.com/fairy-tail-tartaros-arc.jpg"
+    },
+    {
+      "id": 57,
+      "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc (TV Version)",
+      "description": "The Mugen Train Arc retells the events of the Demon Slayer movie in a TV series format.",
+      "genre": ["Action", "Supernatural", "Historical"],
+      "release_date": "2021-10-10",
+      "episodes": 7,
+      "rating": 8.7,
+      "studio": "ufotable",
+      "image_url": "https://example.com/demon-slayer-mugen-train-arc-tv-version.jpg"
+    },
+    {
+      "id": 58,
+      "title": "Dragon Ball Super: Broly",
+      "description": "Goku and Vegeta encounter the powerful Saiyan warrior, Broly, in an epic battle.",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "release_date": "2018-12-14",
+      "episodes": 1,
+      "rating": 8.1,
+      "studio": "Toei Animation",
+      "image_url": "https://example.com/dragon-ball-super-broly.jpg"
+    },
+    {
+      "id": 59,
+      "title": "One Punch Man: Road to Hero 2.0",
+      "description": "Saitama's journey continues as he seeks new challenges and confronts new threats.",
+      "genre": ["Action", "Comedy", "Superpower"],
+      "release_date": "2020-04-09",
+      "episodes": 1,
+      "rating": 7.6,
+      "studio": "J.C. Staff",
+      "image_url": "https://example.com/one-punch-man-road-to-hero-2.0.jpg"
+    },
+    {
+      "id": 60,
+      "title": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door (Special Edition)",
+      "description": "A special edition of the Cowboy Bebop movie featuring additional scenes and content.",
+      "genre": ["Action", "Space", "Drama"],
+      "release_date": "2002-09-21",
+      "episodes": 1,
+      "rating": 8.3,
+      "studio": "Sunrise",
+      "image_url": "https://example.com/cowboy-bebop-movie-special-edition.jpg"
     }
   ]
 }
