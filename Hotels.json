@@ -1,0 +1,174 @@
+{
+  "hotels": [
+    {
+      "name": "Luxury Paradise Hotel",
+      "location": "Tropicalville, Palm Island",
+      "rating": 5,
+      "priceRange": "$$$",
+      "facilities": ["Swimming Pool", "Spa", "Fine Dining", "Gym"],
+      "roomTypes": [
+        {
+          "type": "Deluxe Room",
+          "pricePerNight": 250
+        },
+        {
+          "type": "Suite",
+          "pricePerNight": 400
+        }
+      ]
+    },
+    {
+      "name": "Seaside Retreat Resort",
+      "location": "Beachfront Cove, Oceanview",
+      "rating": 4,
+      "priceRange": "$$",
+      "facilities": ["Private Beach", "Restaurant", "Water Sports"],
+      "roomTypes": [
+        {
+          "type": "Oceanfront Villa",
+          "pricePerNight": 350
+        },
+        {
+          "type": "Standard Room",
+          "pricePerNight": 150
+        }
+      ]
+    },
+    {
+      "name": "Mountain View Lodge",
+      "location": "Serenity Valley, Mountainville",
+      "rating": 3,
+      "priceRange": "$",
+      "facilities": ["Scenic Views", "Hiking Trails", "Cafeteria"],
+      "roomTypes": [
+        {
+          "type": "Cozy Cabin",
+          "pricePerNight": 80
+        },
+        {
+          "type": "Mountain Suite",
+          "pricePerNight": 120
+        }
+      ]
+    },
+    {
+      "name": "Urban Heights Hotel",
+      "location": "Downtown Metropolis",
+      "rating": 4,
+      "priceRange": "$$$",
+      "facilities": ["Rooftop Bar", "Conference Rooms", "Fitness Center"],
+      "roomTypes": [
+        {
+          "type": "Executive Suite",
+          "pricePerNight": 300
+        },
+        {
+          "type": "City View Room",
+          "pricePerNight": 200
+        }
+      ]
+    },
+    {
+      "name": "Rustic Retreat Inn",
+      "location": "Woodland Haven, Tranquil Forest",
+      "rating": 3,
+      "priceRange": "$",
+      "facilities": ["Nature Trails", "Fireplace Lounge", "Outdoor Dining"],
+      "roomTypes": [
+        {
+          "type": "Woodland Cabin",
+          "pricePerNight": 100
+        },
+        {
+          "type": "Forest View Room",
+          "pricePerNight": 70
+        }
+      ]
+    },
+    {
+      "name": "Lakeside Lodge",
+      "location": "Tranquil Lakefront, Waterside",
+      "rating": 4,
+      "priceRange": "$$",
+      "facilities": ["Boating", "Fishing", "Lakeside Dining"],
+      "roomTypes": [
+        {
+          "type": "Lakeview Suite",
+          "pricePerNight": 220
+        },
+        {
+          "type": "Standard Room",
+          "pricePerNight": 120
+        }
+      ]
+    },
+    {
+      "name": "Historic Grand Hotel",
+      "location": "Old Town, Historic District",
+      "rating": 5,
+      "priceRange": "$$$",
+      "facilities": ["Antique Decor", "Ballroom", "Fine Dining"],
+      "roomTypes": [
+        {
+          "type": "Luxury Suite",
+          "pricePerNight": 450
+        },
+        {
+          "type": "Classic Room",
+          "pricePerNight": 280
+        }
+      ]
+    },
+    {
+      "name": "Desert Oasis Resort",
+      "location": "Sandy Dunes, Desertland",
+      "rating": 4,
+      "priceRange": "$$",
+      "facilities": ["Camel Rides", "Desert Tours", "Oasis Spa"],
+      "roomTypes": [
+        {
+          "type": "Desert Villa",
+          "pricePerNight": 300
+        },
+        {
+          "type": "Standard Tent",
+          "pricePerNight": 180
+        }
+      ]
+    },
+    {
+      "name": "Alpine Chalet Hotel",
+      "location": "Snowy Peaks, Alpine Valley",
+      "rating": 4,
+      "priceRange": "$$$",
+      "facilities": ["Skiing", "Mountain Views", "Chalet Restaurant"],
+      "roomTypes": [
+        {
+          "type": "Alpine Suite",
+          "pricePerNight": 350
+        },
+        {
+          "type": "Ski Lodge Room",
+          "pricePerNight": 250
+        }
+      ]
+    },
+    {
+      "name": "Beachfront Bliss Resort",
+      "location": "Sandy Shores, Seaside Cove",
+      "rating": 5,
+      "priceRange": "$$$",
+      "facilities": ["Private Beach", "Infinity Pool", "Beach Bar"],
+      "roomTypes": [
+        {
+          "type": "Beachfront Villa",
+          "pricePerNight": 500
+        },
+        {
+          "type": "Deluxe Beach Suite",
+          "pricePerNight": 400
+        }
+      ]
+    }
+  ]
+}
