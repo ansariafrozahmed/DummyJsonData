@@ -1,0 +1,175 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "releaseDate": "1994-09-23",
+      "genre": ["Drama", "Crime"],
+      "director": "Frank Darabont",
+      "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "rating": 9.3
+    },
+    {
+      "title": "The Godfather",
+      "releaseDate": "1972-03-24",
+      "genre": ["Crime", "Drama"],
+      "director": "Francis Ford Coppola",
+      "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "rating": 9.2
+    },
+    {
+      "title": "Pulp Fiction",
+      "releaseDate": "1994-10-14",
+      "genre": ["Crime", "Drama"],
+      "director": "Quentin Tarantino",
+      "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "rating": 8.9
+    },
+    {
+      "title": "The Dark Knight",
+      "releaseDate": "2008-07-18",
+      "genre": ["Action", "Crime", "Drama"],
+      "director": "Christopher Nolan",
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "plot": "When the menace known as The Joker emerges, Batman must confront his greatest psychological and physical challenge.",
+      "rating": 9.0
+    },
+    {
+      "title": "Schindler's List",
+      "releaseDate": "1993-12-15",
+      "genre": ["Biography", "Drama", "History"],
+      "director": "Steven Spielberg",
+      "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "rating": 8.9
+    },
+    {
+      "title": "Forrest Gump",
+      "releaseDate": "1994-07-06",
+      "genre": ["Drama", "Romance"],
+      "director": "Robert Zemeckis",
+      "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "rating": 8.8
+    },
+    {
+      "title": "Inception",
+      "releaseDate": "2010-07-16",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "director": "Christopher Nolan",
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "rating": 8.8
+    },
+    {
+      "title": "The Matrix",
+      "releaseDate": "1999-03-31",
+      "genre": ["Action", "Sci-Fi"],
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "plot": "A computer programmer discovers that reality as he knows it is a simulation created by machines, and he joins a group of rebels in their fight against the machines.",
+      "rating": 8.7
+    },
+    {
+      "title": "Saving Private Ryan",
+      "releaseDate": "1998-07-24",
+      "genre": ["Drama", "War"],
+      "director": "Steven Spielberg",
+      "cast": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "rating": 8.6
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "releaseDate": "2001-12-19",
+      "genre": ["Adventure", "Drama", "Fantasy"],
+      "director": "Peter Jackson",
+      "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
+      "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "rating": 8.8
+    },
+    {
+      "title": "The Lion King",
+      "releaseDate": "1994-06-24",
+      "genre": ["Animation", "Adventure", "Drama"],
+      "director": "Roger Allers, Rob Minkoff",
+      "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+      "plot": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the young prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days.",
+      "rating": 8.5
+    },
+    {
+      "title": "The Avengers",
+      "releaseDate": "2012-05-04",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "director": "Joss Whedon",
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
+      "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "rating": 8.0
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "releaseDate": "1991-02-14",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "director": "Jonathan Demme",
+      "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+      "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "rating": 8.6
+    },
+    {
+      "title": "Gladiator",
+      "releaseDate": "2000-05-05",
+      "genre": ["Action", "Adventure", "Drama"],
+      "director": "Ridley Scott",
+      "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+      "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "rating": 8.5
+    },
+    {
+      "title": "Jurassic Park",
+      "releaseDate": "1993-06-11",
+      "genre": ["Adventure", "Sci-Fi", "Thriller"],
+      "director": "Steven Spielberg",
+      "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
+      "plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "rating": 8.1
+    },
+    {
+      "title": "The Departed",
+      "releaseDate": "2006-10-06",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "director": "Martin Scorsese",
+      "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+      "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "rating": 8.5
+    },
+    {
+      "title": "Avatar",
+      "releaseDate": "2009-12-18",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "director": "James Cameron",
+      "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "rating": 7.8
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "releaseDate": "2004-03-19",
+      "genre": ["Drama", "Romance", "Sci-Fi"],
+      "director": "Michel Gondry",
+      "cast": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson"],
+      "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+      "rating": 8.3
+    },
+    {
+      "title": "The Social Network",
+      "releaseDate": "2010-10-01",
+      "genre": ["Biography", "Drama"],
+      "director": "David Fincher",
+      "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+      "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+      "rating": 7.7
+    }
+  ]
+}
