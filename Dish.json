@@ -1,0 +1,340 @@
+{
+  "dishes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and black pepper.",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "quantity": "200g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Pancetta",
+          "quantity": "100g"
+        },
+        {
+          "name": "Grated Pecorino Romano Cheese",
+          "quantity": "50g"
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": "to taste"
+        }
+      ],
+      "preparation_steps": [
+        "Cook the spaghetti according to package instructions until al dente.",
+        "In a separate bowl, whisk together eggs, grated Pecorino Romano cheese, and a generous amount of black pepper.",
+        "In a pan, cook pancetta until crispy, then remove from heat and drain excess fat.",
+        "Combine cooked spaghetti with the egg and cheese mixture, then add the crispy pancetta.",
+        "Toss everything together until the heat from the spaghetti cooks the eggs and creates a creamy sauce.",
+        "Serve immediately, garnished with extra Pecorino Romano cheese and black pepper."
+      ]
+    },
+    {
+      "name": "Chicken Stir-Fry",
+      "description": "Quick and healthy stir-fry with chicken, vegetables, and a savory sauce.",
+      "ingredients": [
+        {
+          "name": "Chicken Breast",
+          "quantity": "2 breasts, diced"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": "2, sliced"
+        },
+        {
+          "name": "Broccoli",
+          "quantity": "1 head, cut into florets"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves, minced"
+        }
+      ],
+      "preparation_steps": [
+        "In a wok or large skillet, heat oil over high heat.",
+        "Add minced garlic and diced chicken. Stir-fry until chicken is cooked through and slightly browned.",
+        "Add sliced bell peppers and broccoli florets. Stir-fry for a few more minutes until vegetables are tender-crisp.",
+        "Pour soy sauce over the stir-fry and toss to coat everything evenly.",
+        "Serve hot over cooked rice or noodles."
+      ]
+    },
+    {
+      "name": "Caprese Salad",
+      "description": "Refreshing Italian salad with tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+      "ingredients": [
+        {
+          "name": "Tomatoes",
+          "quantity": "4, sliced"
+        },
+        {
+          "name": "Fresh Mozzarella Cheese",
+          "quantity": "8 oz, sliced"
+        },
+        {
+          "name": "Fresh Basil Leaves",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Balsamic Glaze",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "quantity": "2 tablespoons"
+        }
+      ],
+      "preparation_steps": [
+        "Arrange tomato and mozzarella slices on a serving platter, alternating them.",
+        "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+        "Drizzle with extra virgin olive oil and balsamic glaze.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately as an appetizer or side dish."
+      ]
+    },
+    {
+      "name": "Beef Tacos",
+      "description": "Tasty and spicy beef tacos with salsa, lettuce, and cheese in soft tortillas.",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "1 lb"
+        },
+        {
+          "name": "Taco Seasoning",
+          "quantity": "1 packet"
+        },
+        {
+          "name": "Tortillas",
+          "quantity": "8"
+        },
+        {
+          "name": "Lettuce",
+          "quantity": "1 cup, shredded"
+        },
+        {
+          "name": "Cheddar Cheese",
+          "quantity": "1 cup, shredded"
+        },
+        {
+          "name": "Salsa",
+          "quantity": "1 cup"
+        }
+      ],
+      "preparation_steps": [
+        "In a skillet, brown the ground beef over medium-high heat, breaking it apart with a spoon.",
+        "Drain excess fat and add the taco seasoning. Cook according to the seasoning packet instructions.",
+        "Warm tortillas in a dry skillet or microwave.",
+        "Assemble tacos by placing beef, lettuce, cheese, and salsa on each tortilla.",
+        "Fold in half and serve hot."
+      ]
+    },
+    {
+      "name": "Mushroom Risotto",
+      "description": "Creamy Italian risotto with mushrooms, white wine, and Parmesan cheese.",
+      "ingredients": [
+        {
+          "name": "Arborio Rice",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": "8 oz, sliced"
+        },
+        {
+          "name": "White Wine",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Chicken Broth",
+          "quantity": "4 cups, heated"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "1/2 cup, grated"
+        },
+        {
+          "name": "Butter",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1, finely chopped"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves, minced"
+        }
+      ],
+      "preparation_steps": [
+        "In a large saucepan, melt the butter over medium heat. Add chopped onion and garlic; sauté until translucent.",
+        "Add sliced mushrooms and cook until they release their moisture and brown slightly.",
+        "Stir in Arborio rice and cook for a couple of minutes until the rice is translucent around the edges.",
+        "Pour in the white wine and cook until it is mostly absorbed by the rice.",
+        "Begin adding the heated chicken broth, one ladle at a time, stirring constantly until each addition is absorbed before adding more.",
+        "Continue this process until the rice is creamy and cooked to your desired level of doneness (usually about 18-20 minutes).",
+        "Stir in grated Parmesan cheese, season with salt and pepper, and serve hot."
+      ]
+    },
+    {
+      "name": "Caesar Salad",
+      "description": "Classic Caesar salad with romaine lettuce, croutons, Caesar dressing, and Parmesan cheese.",
+      "ingredients": [
+        {
+          "name": "Romaine Lettuce",
+          "quantity": "1 head, chopped"
+        },
+        {
+          "name": "Croutons",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Caesar Dressing",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "1/2 cup, grated"
+        }
+      ],
+      "preparation_steps": [
+        "In a large salad bowl, toss chopped romaine lettuce with Caesar dressing until evenly coated.",
+        "Add croutons and grated Parmesan cheese on top.",
+        "Toss once more and serve immediately as a side or main dish."
+      ]
+    },
+    {
+      "name": "Vegetable Stir-Fry",
+      "description": "Healthy stir-fry with a variety of colorful vegetables in a savory sauce.",
+      "ingredients": [
+        {
+          "name": "Broccoli",
+          "quantity": "1 head, cut into florets"
+        },
+        {
+          "name": "Carrots",
+          "quantity": "2, sliced"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": "2, sliced"
+        },
+        {
+          "name": "Snow Peas",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "3 tablespoons"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves, minced"
+        },
+        {
+          "name": "Ginger",
+          "quantity": "1 tablespoon, minced"
+        }
+      ],
+      "preparation_steps": [
+        "In a wok or large skillet, heat oil over high heat.",
+        "Add minced garlic and ginger; stir-fry for about 30 seconds until fragrant.",
+        "Add broccoli, carrots, and bell peppers. Stir-fry for a few minutes until they start to soften.",
+        "Add snow peas and soy sauce. Continue to stir-fry until all the vegetables are tender-crisp.",
+        "Serve hot over cooked rice or noodles."
+      ]
+    },
+    {
+      "name": "Homemade Pizza",
+      "description": "Delicious homemade pizza with your choice of toppings and a crispy crust.",
+      "ingredients": [
+        {
+          "name": "Pizza Dough",
+          "quantity": "1 ball"
+        },
+        {
+          "name": "Tomato Sauce",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Mozzarella Cheese",
+          "quantity": "1 cup, shredded"
+        },
+        {
+          "name": "Pepperoni Slices",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Bell Peppers",
+          "quantity": "1, sliced"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": "4 oz, sliced"
+        }
+      ],
+      "preparation_steps": [
+        "Preheat your oven to the highest temperature it can go (usually around 500°F or 260°C).",
+        "Roll out the pizza dough on a floured surface to your desired thickness.",
+        "Spread tomato sauce evenly over the dough, leaving a small border around the edges for the crust.",
+        "Sprinkle shredded mozzarella cheese over the sauce.",
+        "Add your choice of toppings, such as pepperoni slices, bell peppers, and mushrooms.",
+        "Transfer the pizza to a hot pizza stone or a baking sheet lined with parchment paper.",
+        "Bake in the preheated oven for about 10-12 minutes or until the crust is golden and the cheese is bubbly and slightly browned.",
+        "Slice and serve hot."
+      ]
+    },
+    {
+      "name": "Baked Salmon",
+      "description": "Healthy and flavorful baked salmon with lemon, garlic, and herbs.",
+      "ingredients": [
+        {
+          "name": "Salmon Fillet",
+          "quantity": "4 fillets"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1, sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves, minced"
+        },
+        {
+          "name": "Fresh Dill",
+          "quantity": "2 tablespoons, chopped"
+        },
+        {
+          "name": "Olive Oil",
+          "quantity": "2 tablespoons"
+        },
+        {
+          "name": "Salt",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Black Pepper",
+          "quantity": "to taste"
+        }
+      ],
+      "preparation_steps": [
+        "Preheat your oven to 375°F (190°C).",
+        "Place salmon fillets on a baking sheet lined with parchment paper.",
+        "Season salmon with salt and black pepper.",
+        "In a small bowl, mix minced garlic, chopped fresh dill, and olive oil.",
+        "Brush the garlic and dill mixture over the salmon fillets.",
+        "Place lemon slices on top of each fillet.",
+        "Bake in the preheated oven for about 15-20 minutes, or until the salmon flakes easily with a fork.",
+        "Serve hot, garnished with additional fresh dill."
+      ]
+    }
+  ]
+}
